@@ -16,7 +16,7 @@ A aplicação utilizada no teste se chama 'BugBank' e pode ser acessada através
 
 ## <a name="tecnologia"></a>Tecnologias utilizadas
 ![Eclipse](icon/eclipse.png)
-![java](icon/java.png)
+![java](icon/Java.png)
 ![Junit](icon/JUnit5.png)
 ![Maven](icon/Maven.png)
 ![Selenium](icon/Selenium.png)
@@ -74,7 +74,8 @@ Ao termino do teste, é gerado um relatório contendo o passo a passo do que foi
 e os prints de tela apropriados. 
 
 **Vídeo demonstrativo**
-<video src="icon/DemonstracaoBugBank.mp4" controls="controls" width="100%" height="auto"></video>
+
+[![Assista ao vídeo](./icon/thumb.jpg)](./icon/DemonstracaoBugBank.mp4)
 
 
 
