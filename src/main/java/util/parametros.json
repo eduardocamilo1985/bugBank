@@ -1,0 +1,428 @@
+{
+	
+	"navegador": "E",
+	
+	"allure":{
+		"caminhoProjeto": "C:\\Desenvolvimento\\Workspaces\\silce\\silce\\silce\\silce-automacao",
+		"tipoExecucao":"individual",
+		"nomePastaRegressivo":"debug",
+		"versaoAmbiente":"tqs"
+
+	},
+	"urls": {
+		
+		"web": "https://silce-web.tqs.caixa/silce-web/#/home"
+
+
+	},
+	"usuario": {
+		"cpf": "322.372.500-81",
+		"email": "test_user_95910576@testuser.com ",
+		"senha": "102030"
+	},
+	"usuarioIBC": {
+		"matricula": "USER81904413889 ",
+		"senha": "caixa01",
+		"assinaturaEletronica": "134679"
+	},
+	"dadosBanco": {
+		"ipPortaNome": "10.192.224.102:5031/CSD4",
+		"usuario": "SLCEDB01",
+		"senha": "SLCEDB01"
+	},
+	"cartaoMP": {
+		"numero": "4235 6477 2802 5682",
+		"codigoSeguranca": "123",
+		"mesVencimento": "11",
+		"anoVencimento": "2026"
+	},
+	"cartaoRP": {
+		"numero": "5448 2800 0000 0007",
+		"codigoSeguranca": "123",
+		"mesVencimento": "01",
+		"anoVencimento": "2028"
+	},
+	"apostas": {
+		"repetirApostasPremiadas": 2,
+		"teimosinha": 2,
+		"surpresinha": 2,
+		"espelho": 2,
+		"formaPagamento": "mercado pago",
+		"aumentarQuantidadeNumeros": 2,
+		"quantNumerosPremiados": "minima"
+	},
+	"prognosticosPremiados": [
+		{
+			"modalidade": "mega-sena",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				20,
+				23,
+				29
+			]
+		},
+		{
+			"modalidade": "quina",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				20,
+				29
+			]
+		},
+		{
+			"modalidade": "dupla-sena",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				20,
+				23,
+				29
+			]
+		},
+		{
+			"modalidade": "lotofacil",
+			"prognosticos": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"modalidade": "lotogol",
+			"prognosticos": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"modalidade": "loteca",
+			"prognosticos": [
+				1,
+				4,
+				7,
+				10,
+				13,
+				18,
+				21,
+				24,
+				26,
+				29,
+				32,
+				34,
+				39,
+				40,
+				41
+			]
+		},
+		{
+			"modalidade": "lotomania",
+			"prognosticos": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50
+			]
+		},
+		{
+			"modalidade": "timemania",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				20,
+				23,
+				25,
+				29,
+				33,
+				41,
+				50
+			]
+		},
+		{
+			"modalidade": "dia-de-sorte",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				20,
+				23,
+				29,
+				30
+			]
+		},
+		{
+			"modalidade": "super-sete",
+			"prognosticos": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"modalidade": "mais-milionaria",
+			"prognosticos": [
+				1,
+				2,
+				3,
+				38,
+				42,
+				50
+			]
+		}
+	],
+	"prognosticosPremiadosVolatil": [
+		{
+			"modalidade": "mega-sena",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				20,
+				21,
+				22
+			]
+		},
+		{
+			"modalidade": "quina",
+			"prognosticos": [
+				5,
+				9,
+				16,
+				21,
+				28
+			]
+		},
+		{
+			"modalidade": "dupla-sena",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				20,
+				22,
+				28
+			]
+		},
+		{
+			"modalidade": "lotofacil",
+			"prognosticos": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				22,
+				23,
+				24,
+				25
+			]
+		},
+		{
+			"modalidade": "lotogol",
+			"prognosticos": [
+				0,
+				1,
+				2
+			]
+		},
+		{
+			"modalidade": "loteca",
+			"prognosticos": [
+				1,
+				4,
+				7,
+				10,
+				13,
+				18,
+				21,
+				24,
+				26,
+				29,
+				32,
+				34,
+				39,
+				40,
+				41
+			]
+		},
+		{
+			"modalidade": "lotomania",
+			"prognosticos": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50
+			]
+		},
+		{
+			"modalidade": "timemania",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				21,
+				24,
+				26,
+				27,
+				34,
+				42,
+				51
+			]
+		},
+		{
+			"modalidade": "dia-de-sorte",
+			"prognosticos": [
+				5,
+				9,
+				15,
+				20,
+				24,
+				28,
+				31
+			]
+		},
+		{
+			"modalidade": "super-sete",
+			"prognosticos": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"modalidade": "mais-milionaria",
+			"prognosticos": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	]
+}
